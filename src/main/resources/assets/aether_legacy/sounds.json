@@ -282,5 +282,12 @@
 	"sounds": [
 	    "aether_legacy:aeboss/slider/death"
 	]
-   }
+   },
+  "aeboss.sun_spirit.shoot": {
+	"category": "hostile",
+	"subtitle": "Sun Spirit shoots",
+	"sounds": [
+	    "mob/ghast/fireball4"
+	]
+	}
 }
